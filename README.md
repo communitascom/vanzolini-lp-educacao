@@ -3,6 +3,16 @@
 Reprodução estática de `conteudo.vanzolini.org.br/cursos-educacao/`, sem WordPress, sem
 Elementor, sem jQuery, sem Font Awesome e sem nenhuma requisição a terceiros para fontes.
 
+## Onde vive
+
+Repositório: `communitascom/vanzolini-lp-educacao` (privado).
+A pasta de origem é `LP Educacao - versao leve/` no Drive da campanha.
+
+> **Antes de publicar no domínio da Vanzolini, remova o `<meta name="robots"
+> content="noindex,nofollow">` do `index.html`.** Ele existe só para a cópia de
+> homologação no GitHub Pages não ser indexada e competir com a página real. Está
+> marcado com um bloco de comentário em caixa alta no topo do arquivo.
+
 ## Como publicar
 
 Suba os dois itens juntos, preservando a estrutura:
